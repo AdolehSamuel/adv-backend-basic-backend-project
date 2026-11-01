@@ -1,0 +1,11 @@
+{
+  "name": "basic-backend",
+  "version": "1.0.0",
+  "description": "A basic Node.js backend built without frameworks",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "AdolehSamuel",
+  "license": "ISC"
+}
